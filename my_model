@@ -1,0 +1,8 @@
+# Here is some R code
+
+infinite_loop = function(x){
+counter = 1
+while (counter > 0){
+    counter=counter+1}
+}
+
